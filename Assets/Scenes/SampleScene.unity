@@ -696,7 +696,7 @@ MonoBehaviour:
   bulletPrefabs: {fileID: 6979803137569771606, guid: e14f1069b0a18f643bed14011c00e0b9,
     type: 3}
   shootingInterval: 0.3
-  bulletOffset: {x: 0, y: 0, z: 0}
+  bulletOffset: {x: 0, y: 0.7, z: 0}
 --- !u!1001 &1857486195
 PrefabInstance:
   m_ObjectHideFlags: 0
